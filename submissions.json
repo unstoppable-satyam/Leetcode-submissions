@@ -9,6 +9,16 @@
     ]
   },
   {
+    "id": 125,
+    "title": "Valid Palindrome",
+    "title_slug": "valid-palindrome",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",
