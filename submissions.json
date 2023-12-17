@@ -37,5 +37,14 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "id": 1678,
+    "title": "Goal Parser Interpretation",
+    "title_slug": "goal-parser-interpretation",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
   }
 ]
