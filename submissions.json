@@ -19,6 +19,17 @@
     ]
   },
   {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "title_slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",
