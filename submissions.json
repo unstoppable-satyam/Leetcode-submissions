@@ -50,6 +50,17 @@
     ]
   },
   {
+    "id": 779,
+    "title": "K-th Symbol in Grammar",
+    "title_slug": "k-th-symbol-in-grammar",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 852,
     "title": "Peak Index in a Mountain Array",
     "title_slug": "peak-index-in-a-mountain-array",
