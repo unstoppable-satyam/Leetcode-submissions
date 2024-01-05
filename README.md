@@ -7,6 +7,7 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | `Math` |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |

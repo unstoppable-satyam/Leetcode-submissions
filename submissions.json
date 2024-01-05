@@ -9,6 +9,16 @@
     ]
   },
   {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 125,
     "title": "Valid Palindrome",
     "title_slug": "valid-palindrome",
