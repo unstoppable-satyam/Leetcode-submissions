@@ -19,6 +19,17 @@
     ]
   },
   {
+    "id": 78,
+    "title": "Subsets",
+    "title_slug": "subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 125,
     "title": "Valid Palindrome",
     "title_slug": "valid-palindrome",
