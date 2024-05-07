@@ -92,6 +92,18 @@
     ]
   },
   {
+    "id": 547,
+    "title": "Number of Provinces",
+    "title_slug": "number-of-provinces",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 779,
     "title": "K-th Symbol in Grammar",
     "title_slug": "k-th-symbol-in-grammar",
