@@ -92,6 +92,18 @@
     ]
   },
   {
+    "id": 542,
+    "title": "01 Matrix",
+    "title_slug": "01-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 547,
     "title": "Number of Provinces",
     "title_slug": "number-of-provinces",
