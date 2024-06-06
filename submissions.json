@@ -150,6 +150,19 @@
     ]
   },
   {
+    "id": 1020,
+    "title": "Number of Enclaves",
+    "title_slug": "number-of-enclaves",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 1678,
     "title": "Goal Parser Interpretation",
     "title_slug": "goal-parser-interpretation",
