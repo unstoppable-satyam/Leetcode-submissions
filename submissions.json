@@ -140,6 +140,18 @@
     ]
   },
   {
+    "id": 785,
+    "title": "Is Graph Bipartite?",
+    "title_slug": "is-graph-bipartite",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 852,
     "title": "Peak Index in a Mountain Array",
     "title_slug": "peak-index-in-a-mountain-array",
