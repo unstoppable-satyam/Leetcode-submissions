@@ -74,6 +74,17 @@
     ]
   },
   {
+    "id": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "title_slug": "binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 122,
     "title": "Best Time to Buy and Sell Stock II",
     "title_slug": "best-time-to-buy-and-sell-stock-ii",
