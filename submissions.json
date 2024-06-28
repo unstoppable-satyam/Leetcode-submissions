@@ -51,6 +51,18 @@
     ]
   },
   {
+    "id": 100,
+    "title": "Same Tree",
+    "title_slug": "same-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 102,
     "title": "Binary Tree Level Order Traversal",
     "title_slug": "binary-tree-level-order-traversal",
