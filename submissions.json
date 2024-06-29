@@ -141,6 +141,18 @@
     ]
   },
   {
+    "id": 199,
+    "title": "Binary Tree Right Side View",
+    "title_slug": "binary-tree-right-side-view",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
