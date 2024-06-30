@@ -20,6 +20,18 @@
     ]
   },
   {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "title_slug": "merge-k-sorted-lists",
+    "difficulty": "Hard",
+    "skills": [
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Linked List",
+      "Merge Sort"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
