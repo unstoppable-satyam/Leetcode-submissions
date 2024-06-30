@@ -243,6 +243,20 @@
     ]
   },
   {
+    "id": 621,
+    "title": "Task Scheduler",
+    "title_slug": "task-scheduler",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Greedy",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 779,
     "title": "K-th Symbol in Grammar",
     "title_slug": "k-th-symbol-in-grammar",
