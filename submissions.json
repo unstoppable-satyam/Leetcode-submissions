@@ -153,6 +153,19 @@
     ]
   },
   {
+    "id": 215,
+    "title": "Kth Largest Element in an Array",
+    "title_slug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Quickselect",
+      "Sorting"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
