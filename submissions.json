@@ -199,6 +199,17 @@
     ]
   },
   {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "title_slug": "longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 309,
     "title": "Best Time to Buy and Sell Stock with Cooldown",
     "title_slug": "best-time-to-buy-and-sell-stock-with-cooldown",
