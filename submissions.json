@@ -230,6 +230,18 @@
     ]
   },
   {
+    "id": 368,
+    "title": "Largest Divisible Subset",
+    "title_slug": "largest-divisible-subset",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 542,
     "title": "01 Matrix",
     "title_slug": "01-matrix",
