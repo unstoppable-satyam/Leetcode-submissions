@@ -280,6 +280,18 @@
     ]
   },
   {
+    "id": 673,
+    "title": "Number of Longest Increasing Subsequence",
+    "title_slug": "number-of-longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Dynamic Programming",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 779,
     "title": "K-th Symbol in Grammar",
     "title_slug": "k-th-symbol-in-grammar",
