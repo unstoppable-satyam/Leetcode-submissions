@@ -352,6 +352,20 @@
     ]
   },
   {
+    "id": 1048,
+    "title": "Longest String Chain",
+    "title_slug": "longest-string-chain",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Hash Table",
+      "Sorting",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1143,
     "title": "Longest Common Subsequence",
     "title_slug": "longest-common-subsequence",
