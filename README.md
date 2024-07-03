@@ -40,5 +40,6 @@
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | Hard | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `Tree` |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | Medium | `Array` `Dynamic Programming` `Hash Table` `Sorting` `String` `Two Pointers` |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard | `Recursion` `Stack` `String` |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | `String` |

@@ -390,6 +390,17 @@
     ]
   },
   {
+    "id": 1106,
+    "title": "Parsing A Boolean Expression",
+    "title_slug": "parsing-a-boolean-expression",
+    "difficulty": "Hard",
+    "skills": [
+      "Recursion",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1143,
     "title": "Longest Common Subsequence",
     "title_slug": "longest-common-subsequence",
