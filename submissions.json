@@ -386,6 +386,16 @@
     ]
   },
   {
+    "id": 1043,
+    "title": "Partition Array for Maximum Sum",
+    "title_slug": "partition-array-for-maximum-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1048,
     "title": "Longest String Chain",
     "title_slug": "longest-string-chain",
