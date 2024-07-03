@@ -242,6 +242,18 @@
     ]
   },
   {
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "title_slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 542,
     "title": "01 Matrix",
     "title_slug": "01-matrix",
