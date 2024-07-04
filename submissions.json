@@ -430,6 +430,16 @@
     ]
   },
   {
+    "id": 1092,
+    "title": "Shortest Common Supersequence ",
+    "title_slug": "shortest-common-supersequence",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 1106,
     "title": "Parsing A Boolean Expression",
     "title_slug": "parsing-a-boolean-expression",
