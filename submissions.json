@@ -298,6 +298,16 @@
     ]
   },
   {
+    "id": 583,
+    "title": "Delete Operation for Two Strings",
+    "title_slug": "delete-operation-for-two-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 621,
     "title": "Task Scheduler",
     "title_slug": "task-scheduler",
