@@ -97,6 +97,16 @@
     ]
   },
   {
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "title_slug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 122,
     "title": "Best Time to Buy and Sell Stock II",
     "title_slug": "best-time-to-buy-and-sell-stock-ii",
