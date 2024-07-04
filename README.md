@@ -45,4 +45,5 @@
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | Medium | `Array` `Dynamic Programming` `Hash Table` `Sorting` `String` `Two Pointers` |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard | `Recursion` `Stack` `String` |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard | `Dynamic Programming` `String` |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | `String` |
