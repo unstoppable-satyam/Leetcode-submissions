@@ -343,6 +343,18 @@
     ]
   },
   {
+    "id": 662,
+    "title": "Maximum Width of Binary Tree",
+    "title_slug": "maximum-width-of-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 673,
     "title": "Number of Longest Increasing Subsequence",
     "title_slug": "number-of-longest-increasing-subsequence",
