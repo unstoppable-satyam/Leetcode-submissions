@@ -220,6 +220,18 @@
     ]
   },
   {
+    "id": 222,
+    "title": "Count Complete Tree Nodes",
+    "title_slug": "count-complete-tree-nodes",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Binary Tree",
+      "Bit Manipulation",
+      "Tree"
+    ]
+  },
+  {
     "id": 290,
     "title": "Word Pattern",
     "title_slug": "word-pattern",
