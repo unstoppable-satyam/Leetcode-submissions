@@ -419,6 +419,17 @@
     ]
   },
   {
+    "id": 701,
+    "title": "Insert into a Binary Search Tree",
+    "title_slug": "insert-into-a-binary-search-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Tree"
+    ]
+  },
+  {
     "id": 779,
     "title": "K-th Symbol in Grammar",
     "title_slug": "k-th-symbol-in-grammar",
