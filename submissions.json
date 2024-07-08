@@ -502,6 +502,20 @@
     ]
   },
   {
+    "id": 1008,
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "title_slug": "construct-binary-search-tree-from-preorder-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Monotonic Stack",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 1020,
     "title": "Number of Enclaves",
     "title_slug": "number-of-enclaves",
