@@ -1,5 +1,16 @@
 [
   {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "title_slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 4,
     "title": "Median of Two Sorted Arrays",
     "title_slug": "median-of-two-sorted-arrays",
