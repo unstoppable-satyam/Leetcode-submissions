@@ -42,6 +42,16 @@
     ]
   },
   {
+    "id": 19,
+    "title": "Remove Nth Node From End of List",
+    "title_slug": "remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 23,
     "title": "Merge k Sorted Lists",
     "title_slug": "merge-k-sorted-lists",
