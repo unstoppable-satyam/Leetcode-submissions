@@ -451,6 +451,19 @@
     ]
   },
   {
+    "id": 743,
+    "title": "Network Delay Time",
+    "title_slug": "network-delay-time",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 779,
     "title": "K-th Symbol in Grammar",
     "title_slug": "k-th-symbol-in-grammar",

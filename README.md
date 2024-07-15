@@ -46,6 +46,7 @@
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) | Medium | `Array` `Binary Indexed Tree` `Dynamic Programming` `Segment Tree` |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Tree` |
+| 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 0779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Medium | `Bit Manipulation` `Math` `Recursion` |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | Medium | `Array` `Greedy` `Hash Table` `Sorting` |
