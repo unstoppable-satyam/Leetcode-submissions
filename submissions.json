@@ -84,6 +84,16 @@
     ]
   },
   {
+    "id": 72,
+    "title": "Edit Distance",
+    "title_slug": "edit-distance",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 78,
     "title": "Subsets",
     "title_slug": "subsets",
