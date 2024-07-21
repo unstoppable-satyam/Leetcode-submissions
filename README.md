@@ -41,6 +41,7 @@
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Medium | `Array` `Dynamic Programming` `Greedy` `Sorting` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
+| 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | Medium | `Dynamic Programming` `String` |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` `Matrix` |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |

@@ -392,6 +392,17 @@
     ]
   },
   {
+    "id": 503,
+    "title": "Next Greater Element II",
+    "title_slug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 516,
     "title": "Longest Palindromic Subsequence",
     "title_slug": "longest-palindromic-subsequence",
