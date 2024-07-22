@@ -704,5 +704,16 @@
       "Shortest Path",
       "Topological Sort"
     ]
+  },
+  {
+    "id": 2104,
+    "title": "Sum of Subarray Ranges",
+    "title_slug": "sum-of-subarray-ranges",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
   }
 ]
