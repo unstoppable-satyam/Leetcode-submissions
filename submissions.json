@@ -567,6 +567,18 @@
     ]
   },
   {
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "title_slug": "sum-of-subarray-minimums",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 987,
     "title": "Vertical Order Traversal of a Binary Tree",
     "title_slug": "vertical-order-traversal-of-a-binary-tree",
