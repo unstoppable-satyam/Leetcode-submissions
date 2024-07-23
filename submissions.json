@@ -356,6 +356,18 @@
     ]
   },
   {
+    "id": 402,
+    "title": "Remove K Digits",
+    "title_slug": "remove-k-digits",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Monotonic Stack",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 435,
     "title": "Non-overlapping Intervals",
     "title_slug": "non-overlapping-intervals",
