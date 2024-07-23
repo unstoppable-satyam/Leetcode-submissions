@@ -685,6 +685,17 @@
     ]
   },
   {
+    "id": 1636,
+    "title": "Sort Array by Increasing Frequency",
+    "title_slug": "sort-array-by-increasing-frequency",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1678,
     "title": "Goal Parser Interpretation",
     "title_slug": "goal-parser-interpretation",
