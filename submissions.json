@@ -334,6 +334,16 @@
     ]
   },
   {
+    "id": 312,
+    "title": "Burst Balloons",
+    "title_slug": "burst-balloons",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",
