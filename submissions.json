@@ -64,6 +64,18 @@
     ]
   },
   {
+    "id": 44,
+    "title": "Wildcard Matching",
+    "title_slug": "wildcard-matching",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion",
+      "String"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
