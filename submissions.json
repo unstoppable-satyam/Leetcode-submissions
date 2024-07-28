@@ -471,6 +471,17 @@
     ]
   },
   {
+    "id": 543,
+    "title": "Diameter of Binary Tree",
+    "title_slug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 547,
     "title": "Number of Provinces",
     "title_slug": "number-of-provinces",
