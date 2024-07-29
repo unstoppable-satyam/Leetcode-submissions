@@ -742,6 +742,18 @@
     ]
   },
   {
+    "id": 1395,
+    "title": "Count Number of Teams",
+    "title_slug": "count-number-of-teams",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Dynamic Programming",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 1584,
     "title": "Min Cost to Connect All Points",
     "title_slug": "min-cost-to-connect-all-points",
