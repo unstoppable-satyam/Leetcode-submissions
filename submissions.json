@@ -482,6 +482,17 @@
     ]
   },
   {
+    "id": 546,
+    "title": "Remove Boxes",
+    "title_slug": "remove-boxes",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
     "id": 547,
     "title": "Number of Provinces",
     "title_slug": "number-of-provinces",

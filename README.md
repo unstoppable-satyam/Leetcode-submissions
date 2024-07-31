@@ -49,6 +49,7 @@
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | Medium | `Dynamic Programming` `String` |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` `Matrix` |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
+| 0546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes) | Hard | `Array` `Dynamic Programming` `Memoization` |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | Medium | `Dynamic Programming` `String` |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | `Array` `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` |
