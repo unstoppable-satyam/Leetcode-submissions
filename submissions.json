@@ -426,6 +426,17 @@
     ]
   },
   {
+    "id": 462,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "title_slug": "minimum-moves-to-equal-array-elements-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 496,
     "title": "Next Greater Element I",
     "title_slug": "next-greater-element-i",
