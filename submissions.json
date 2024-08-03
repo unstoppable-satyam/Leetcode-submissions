@@ -86,6 +86,17 @@
     ]
   },
   {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "title_slug": "spiral-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 69,
     "title": "Sqrt(x)",
     "title_slug": "sqrtx",
