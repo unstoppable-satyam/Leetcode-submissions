@@ -839,6 +839,17 @@
     ]
   },
   {
+    "id": 1903,
+    "title": "Largest Odd Number in String",
+    "title_slug": "largest-odd-number-in-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1976,
     "title": "Number of Ways to Arrive at Destination",
     "title_slug": "number-of-ways-to-arrive-at-destination",
