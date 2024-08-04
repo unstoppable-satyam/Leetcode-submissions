@@ -355,6 +355,17 @@
     ]
   },
   {
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 290,
     "title": "Word Pattern",
     "title_slug": "word-pattern",
