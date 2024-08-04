@@ -710,6 +710,16 @@
     ]
   },
   {
+    "id": 1021,
+    "title": "Remove Outermost Parentheses",
+    "title_slug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1043,
     "title": "Partition Array for Maximum Sum",
     "title_slug": "partition-array-for-maximum-sum",
