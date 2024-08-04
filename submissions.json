@@ -875,6 +875,16 @@
     ]
   },
   {
+    "id": 1614,
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "title_slug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1636,
     "title": "Sort Array by Increasing Frequency",
     "title_slug": "sort-array-by-increasing-frequency",
