@@ -653,6 +653,16 @@
     ]
   },
   {
+    "id": 796,
+    "title": "Rotate String",
+    "title_slug": "rotate-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 846,
     "title": "Hand of Straights",
     "title_slug": "hand-of-straights",
