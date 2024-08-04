@@ -467,6 +467,20 @@
     ]
   },
   {
+    "id": 451,
+    "title": "Sort Characters By Frequency",
+    "title_slug": "sort-characters-by-frequency",
+    "difficulty": "Medium",
+    "skills": [
+      "Bucket Sort",
+      "Counting",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 455,
     "title": "Assign Cookies",
     "title_slug": "assign-cookies",
