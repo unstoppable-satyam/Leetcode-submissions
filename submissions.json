@@ -309,6 +309,16 @@
     ]
   },
   {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "title_slug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 215,
     "title": "Kth Largest Element in an Array",
     "title_slug": "kth-largest-element-in-an-array",
