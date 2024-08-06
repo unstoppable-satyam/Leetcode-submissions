@@ -45,6 +45,7 @@
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | `Array` `Binary Search` `Dynamic Programming` |
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | Medium | `Array` `Dynamic Programming` |
 | 0312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons) | Hard | `Array` `Dynamic Programming` |
+| 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Medium | `Linked List` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | Medium | `Array` `Dynamic Programming` `Math` `Sorting` |
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
