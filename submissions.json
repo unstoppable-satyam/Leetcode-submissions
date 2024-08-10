@@ -308,6 +308,20 @@
     ]
   },
   {
+    "id": 173,
+    "title": "Binary Search Tree Iterator",
+    "title_slug": "binary-search-tree-iterator",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Design",
+      "Iterator",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 199,
     "title": "Binary Tree Right Side View",
     "title_slug": "binary-tree-right-side-view",
