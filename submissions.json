@@ -627,6 +627,21 @@
     ]
   },
   {
+    "id": 653,
+    "title": "Two Sum IV - Input is a BST",
+    "title_slug": "two-sum-iv-input-is-a-bst",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Tree",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 662,
     "title": "Maximum Width of Binary Tree",
     "title_slug": "maximum-width-of-binary-tree",

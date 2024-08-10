@@ -62,6 +62,7 @@
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | Medium | `Dynamic Programming` `String` |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | `Array` `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` |
+| 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` `Two Pointers` |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) | Medium | `Array` `Binary Indexed Tree` `Dynamic Programming` `Segment Tree` |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Tree` |
