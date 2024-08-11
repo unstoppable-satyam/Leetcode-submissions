@@ -501,6 +501,17 @@
     ]
   },
   {
+    "id": 450,
+    "title": "Delete Node in a BST",
+    "title_slug": "delete-node-in-a-bst",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Tree"
+    ]
+  },
+  {
     "id": 451,
     "title": "Sort Characters By Frequency",
     "title_slug": "sort-characters-by-frequency",
