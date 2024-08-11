@@ -680,6 +680,17 @@
     ]
   },
   {
+    "id": 700,
+    "title": "Search in a Binary Search Tree",
+    "title_slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Tree"
+    ]
+  },
+  {
     "id": 701,
     "title": "Insert into a Binary Search Tree",
     "title_slug": "insert-into-a-binary-search-tree",
