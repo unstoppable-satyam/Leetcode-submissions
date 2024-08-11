@@ -380,6 +380,18 @@
     ]
   },
   {
+    "id": 230,
+    "title": "Kth Smallest Element in a BST",
+    "title_slug": "kth-smallest-element-in-a-bst",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 242,
     "title": "Valid Anagram",
     "title_slug": "valid-anagram",
