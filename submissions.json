@@ -513,6 +513,17 @@
     ]
   },
   {
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "title_slug": "longest-repeating-character-replacement",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 435,
     "title": "Non-overlapping Intervals",
     "title_slug": "non-overlapping-intervals",
