@@ -851,6 +851,18 @@
     ]
   },
   {
+    "id": 930,
+    "title": "Binary Subarrays With Sum",
+    "title_slug": "binary-subarrays-with-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 987,
     "title": "Vertical Order Traversal of a Binary Tree",
     "title_slug": "vertical-order-traversal-of-a-binary-tree",
