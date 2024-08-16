@@ -969,6 +969,17 @@
     ]
   },
   {
+    "id": 1192,
+    "title": "Critical Connections in a Network",
+    "title_slug": "critical-connections-in-a-network",
+    "difficulty": "Hard",
+    "skills": [
+      "Biconnected Component",
+      "Depth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 1312,
     "title": "Minimum Insertion Steps to Make a String Palindrome",
     "title_slug": "minimum-insertion-steps-to-make-a-string-palindrome",

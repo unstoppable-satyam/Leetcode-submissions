@@ -91,6 +91,7 @@
 | 1092 | [Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) | Hard | `Dynamic Programming` `String` |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard | `Recursion` `Stack` `String` |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard | `Dynamic Programming` `String` |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | Medium | `Array` `Binary Indexed Tree` `Dynamic Programming` `Segment Tree` |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) | Medium | `Array` `Graph Theory` `Minimum Spanning Tree` `Union-Find` |
