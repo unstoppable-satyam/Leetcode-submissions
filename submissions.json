@@ -891,6 +891,16 @@
     ]
   },
   {
+    "id": 1014,
+    "title": "Best Sightseeing Pair",
+    "title_slug": "best-sightseeing-pair",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1020,
     "title": "Number of Enclaves",
     "title_slug": "number-of-enclaves",

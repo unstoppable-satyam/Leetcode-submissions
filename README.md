@@ -84,6 +84,7 @@
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) | Medium | `Array` `Hash Table` `Prefix Sum` `Sliding Window` |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | Hard | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `Tree` |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | Medium | `Array` `Binary Search Tree` `Binary Tree` `Monotonic Stack` `Stack` `Tree` |
+| 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | Medium | `Array` `Dynamic Programming` |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | Medium | `Array` `Dynamic Programming` |
