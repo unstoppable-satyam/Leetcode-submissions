@@ -525,6 +525,19 @@
     ]
   },
   {
+    "id": 410,
+    "title": "Split Array Largest Sum",
+    "title_slug": "split-array-largest-sum",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 424,
     "title": "Longest Repeating Character Replacement",
     "title_slug": "longest-repeating-character-replacement",
