@@ -415,6 +415,18 @@
     ]
   },
   {
+    "id": 264,
+    "title": "Ugly Number II",
+    "title_slug": "ugly-number-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Math"
+    ]
+  },
+  {
     "id": 290,
     "title": "Word Pattern",
     "title_slug": "word-pattern",
