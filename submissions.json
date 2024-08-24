@@ -864,6 +864,17 @@
     ]
   },
   {
+    "id": 887,
+    "title": "Super Egg Drop",
+    "title_slug": "super-egg-drop",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Search",
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 907,
     "title": "Sum of Subarray Minimums",
     "title_slug": "sum-of-subarray-minimums",
