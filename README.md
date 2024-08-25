@@ -34,6 +34,7 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | Hard | `Dynamic Programming` `String` |
+| 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Medium | `String` `Two Pointers` |
 | 0173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium | `Binary Search Tree` `Binary Tree` `Design` `Iterator` `Stack` `Tree` |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
