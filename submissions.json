@@ -404,6 +404,18 @@
     ]
   },
   {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "title_slug": "invert-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 230,
     "title": "Kth Smallest Element in a BST",
     "title_slug": "kth-smallest-element-in-a-bst",
