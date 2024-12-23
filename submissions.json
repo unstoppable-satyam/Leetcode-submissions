@@ -1192,5 +1192,16 @@
       "Monotonic Stack",
       "Stack"
     ]
+  },
+  {
+    "id": 2381,
+    "title": "Shifting Letters II",
+    "title_slug": "shifting-letters-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "String"
+    ]
   }
 ]
