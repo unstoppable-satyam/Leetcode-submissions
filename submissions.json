@@ -1125,6 +1125,17 @@
     ]
   },
   {
+    "id": 1854,
+    "title": "Maximum Population Year",
+    "title_slug": "maximum-population-year",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1903,
     "title": "Largest Odd Number in String",
     "title_slug": "largest-odd-number-in-string",
