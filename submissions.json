@@ -1194,6 +1194,20 @@
     ]
   },
   {
+    "id": 2251,
+    "title": "Number of Flowers in Full Bloom",
+    "title_slug": "number-of-flowers-in-full-bloom",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Ordered Set",
+      "Prefix Sum",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2381,
     "title": "Shifting Letters II",
     "title_slug": "shifting-letters-ii",
