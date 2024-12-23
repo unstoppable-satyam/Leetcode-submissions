@@ -112,3 +112,4 @@
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | Medium | `Dynamic Programming` `Graph Theory` `Shortest Path` `Topological Sort` |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
+| 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict) | Easy | `Array` `String` |

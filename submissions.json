@@ -1203,5 +1203,15 @@
       "Prefix Sum",
       "String"
     ]
+  },
+  {
+    "id": 2446,
+    "title": "Determine if Two Events Have Conflict",
+    "title_slug": "determine-if-two-events-have-conflict",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
   }
 ]
