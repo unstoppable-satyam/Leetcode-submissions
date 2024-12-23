@@ -1029,6 +1029,19 @@
     ]
   },
   {
+    "id": 1094,
+    "title": "Car Pooling",
+    "title_slug": "car-pooling",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Prefix Sum",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1106,
     "title": "Parsing A Boolean Expression",
     "title_slug": "parsing-a-boolean-expression",
