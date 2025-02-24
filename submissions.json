@@ -1160,6 +1160,16 @@
     ]
   },
   {
+    "id": 1922,
+    "title": "Count Good Numbers",
+    "title_slug": "count-good-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 1937,
     "title": "Maximum Number of Points with Cost",
     "title_slug": "maximum-number-of-points-with-cost",
