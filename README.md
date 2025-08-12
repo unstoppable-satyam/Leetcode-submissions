@@ -51,6 +51,7 @@
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | Medium | `Dynamic Programming` `Hash Table` `Heap (Priority Queue)` `Math` |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Design` `String` `Tree` |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | `Array` `Binary Search` `Dynamic Programming` |

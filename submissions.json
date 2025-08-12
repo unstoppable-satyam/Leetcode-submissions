@@ -506,6 +506,16 @@
     ]
   },
   {
+    "id": 283,
+    "title": "Move Zeroes",
+    "title_slug": "move-zeroes",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 290,
     "title": "Word Pattern",
     "title_slug": "word-pattern",
