@@ -366,6 +366,17 @@
     ]
   },
   {
+    "id": 189,
+    "title": "Rotate Array",
+    "title_slug": "rotate-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 199,
     "title": "Binary Tree Right Side View",
     "title_slug": "binary-tree-right-side-view",
