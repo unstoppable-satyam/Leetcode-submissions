@@ -330,6 +330,16 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 145,
     "title": "Binary Tree Postorder Traversal",
     "title_slug": "binary-tree-postorder-traversal",
