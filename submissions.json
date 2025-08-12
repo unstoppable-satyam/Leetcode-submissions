@@ -1172,6 +1172,15 @@
     ]
   },
   {
+    "id": 1752,
+    "title": "Check if Array Is Sorted and Rotated",
+    "title_slug": "check-if-array-is-sorted-and-rotated",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1854,
     "title": "Maximum Population Year",
     "title_slug": "maximum-population-year",
