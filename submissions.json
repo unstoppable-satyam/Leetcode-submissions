@@ -506,6 +506,20 @@
     ]
   },
   {
+    "id": 268,
+    "title": "Missing Number",
+    "title_slug": "missing-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Hash Table",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 283,
     "title": "Move Zeroes",
     "title_slug": "move-zeroes",
