@@ -14,6 +14,7 @@
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | `Backtracking` `Hash Table` `String` |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | `Linked List` `Two Pointers` |
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | `Divide and Conquer` `Heap (Priority Queue)` `Linked List` `Merge Sort` |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard | `Dynamic Programming` `Greedy` `Recursion` `String` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | `Array` `Matrix` `Simulation` |
