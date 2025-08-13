@@ -148,6 +148,17 @@
     ]
   },
   {
+    "id": 75,
+    "title": "Sort Colors",
+    "title_slug": "sort-colors",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 78,
     "title": "Subsets",
     "title_slug": "subsets",
