@@ -286,6 +286,16 @@
     ]
   },
   {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "title_slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 122,
     "title": "Best Time to Buy and Sell Stock II",
     "title_slug": "best-time-to-buy-and-sell-stock-ii",
