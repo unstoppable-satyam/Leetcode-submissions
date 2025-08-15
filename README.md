@@ -17,6 +17,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard | `Dynamic Programming` `Greedy` `Recursion` `String` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
+| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | `Array` `Matrix` `Simulation` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` |
