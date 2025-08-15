@@ -318,6 +318,16 @@
     ]
   },
   {
+    "id": 119,
+    "title": "Pascal's Triangle II",
+    "title_slug": "pascals-triangle-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 121,
     "title": "Best Time to Buy and Sell Stock",
     "title_slug": "best-time-to-buy-and-sell-stock",
