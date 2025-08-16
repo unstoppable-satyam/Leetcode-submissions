@@ -568,6 +568,18 @@
     ]
   },
   {
+    "id": 229,
+    "title": "Majority Element II",
+    "title_slug": "majority-element-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 230,
     "title": "Kth Smallest Element in a BST",
     "title_slug": "kth-smallest-element-in-a-bst",
