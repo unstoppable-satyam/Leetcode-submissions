@@ -1045,6 +1045,16 @@
     ]
   },
   {
+    "id": 775,
+    "title": "Global and Local Inversions",
+    "title_slug": "global-and-local-inversions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 779,
     "title": "K-th Symbol in Grammar",
     "title_slug": "k-th-symbol-in-grammar",
