@@ -843,6 +843,21 @@
     ]
   },
   {
+    "id": 493,
+    "title": "Reverse Pairs",
+    "title_slug": "reverse-pairs",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Binary Search",
+      "Divide and Conquer",
+      "Merge Sort",
+      "Ordered Set",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 496,
     "title": "Next Greater Element I",
     "title_slug": "next-greater-element-i",

@@ -81,6 +81,7 @@
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | Medium | `Array` `Math` `Sorting` |
+| 0493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Divide and Conquer` `Merge Sort` `Ordered Set` `Segment Tree` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | Medium | `Dynamic Programming` `String` |
