@@ -212,6 +212,17 @@
     ]
   },
   {
+    "id": 63,
+    "title": "Unique Paths II",
+    "title_slug": "unique-paths-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 69,
     "title": "Sqrt(x)",
     "title_slug": "sqrtx",
