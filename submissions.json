@@ -211,6 +211,17 @@
     ]
   },
   {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "title_slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 72,
     "title": "Edit Distance",
     "title_slug": "edit-distance",
