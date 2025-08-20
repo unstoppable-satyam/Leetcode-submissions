@@ -27,6 +27,7 @@
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | `Array` `Matrix` `Simulation` |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | `Combinatorics` `Dynamic Programming` `Math` |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
+| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance) | Medium | `Dynamic Programming` `String` |
