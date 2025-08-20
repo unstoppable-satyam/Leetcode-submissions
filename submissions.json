@@ -546,6 +546,16 @@
     ]
   },
   {
+    "id": 198,
+    "title": "House Robber",
+    "title_slug": "house-robber",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 199,
     "title": "Binary Tree Right Side View",
     "title_slug": "binary-tree-right-side-view",
