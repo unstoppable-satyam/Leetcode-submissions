@@ -201,6 +201,17 @@
     ]
   },
   {
+    "id": 62,
+    "title": "Unique Paths",
+    "title_slug": "unique-paths",
+    "difficulty": "Medium",
+    "skills": [
+      "Combinatorics",
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 69,
     "title": "Sqrt(x)",
     "title_slug": "sqrtx",
