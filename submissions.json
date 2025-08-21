@@ -1328,6 +1328,18 @@
     ]
   },
   {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "title_slug": "max-consecutive-ones-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1008,
     "title": "Construct Binary Search Tree from Preorder Traversal",
     "title_slug": "construct-binary-search-tree-from-preorder-traversal",
