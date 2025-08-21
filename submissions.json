@@ -1268,6 +1268,17 @@
     ]
   },
   {
+    "id": 904,
+    "title": "Fruit Into Baskets",
+    "title_slug": "fruit-into-baskets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 907,
     "title": "Sum of Subarray Minimums",
     "title_slug": "sum-of-subarray-minimums",
