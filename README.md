@@ -87,6 +87,7 @@
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | Medium | `Array` `Dynamic Programming` `Math` `Sorting` |
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | Hard | `Array` `Binary Search` `Dynamic Programming` `Greedy` `Prefix Sum` |
+| 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | `Array` `Dynamic Programming` |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Medium | `Array` `Dynamic Programming` `Greedy` `Sorting` |
 | 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | Medium | `Binary Search Tree` `Binary Tree` `Tree` |

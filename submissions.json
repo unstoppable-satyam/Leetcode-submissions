@@ -896,6 +896,16 @@
     ]
   },
   {
+    "id": 416,
+    "title": "Partition Equal Subset Sum",
+    "title_slug": "partition-equal-subset-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 424,
     "title": "Longest Repeating Character Replacement",
     "title_slug": "longest-repeating-character-replacement",
