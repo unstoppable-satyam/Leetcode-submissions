@@ -1166,6 +1166,17 @@
     ]
   },
   {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "title_slug": "asteroid-collision",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 743,
     "title": "Network Delay Time",
     "title_slug": "network-delay-time",
