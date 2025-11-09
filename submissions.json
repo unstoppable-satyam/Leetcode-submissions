@@ -1520,6 +1520,18 @@
     ]
   },
   {
+    "id": 1434,
+    "title": "Number of Ways to Wear Different Hats to Each Other",
+    "title_slug": "number-of-ways-to-wear-different-hats-to-each-other",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Bitmask",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1584,
     "title": "Min Cost to Connect All Points",
     "title_slug": "min-cost-to-connect-all-points",
