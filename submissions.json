@@ -1532,6 +1532,17 @@
     ]
   },
   {
+    "id": 1547,
+    "title": "Minimum Cost to Cut a Stick",
+    "title_slug": "minimum-cost-to-cut-a-stick",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1584,
     "title": "Min Cost to Connect All Points",
     "title_slug": "min-cost-to-connect-all-points",
