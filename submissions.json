@@ -159,6 +159,17 @@
     ]
   },
   {
+    "id": 45,
+    "title": "Jump Game II",
+    "title_slug": "jump-game-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
