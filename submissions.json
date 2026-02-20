@@ -1177,6 +1177,19 @@
     ]
   },
   {
+    "id": 705,
+    "title": "Design HashSet",
+    "title_slug": "design-hashset",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 706,
     "title": "Design HashMap",
     "title_slug": "design-hashmap",
