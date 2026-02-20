@@ -111,6 +111,7 @@
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Medium | `Array` `Simulation` `Stack` |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 0775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) | Medium | `Array` `Math` |

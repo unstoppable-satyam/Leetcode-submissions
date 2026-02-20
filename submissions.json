@@ -1177,6 +1177,19 @@
     ]
   },
   {
+    "id": 706,
+    "title": "Design HashMap",
+    "title_slug": "design-hashmap",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 735,
     "title": "Asteroid Collision",
     "title_slug": "asteroid-collision",
