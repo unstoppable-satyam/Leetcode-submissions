@@ -152,6 +152,7 @@
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | `Stack` `String` |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | Easy | `Array` `Hash Table` `Sorting` |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | `String` |
+| 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array) | Hard | `Array` `Bit Manipulation` `Trie` |
 | 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs) | Hard | `Array` `Backtracking` `Bit Manipulation` `Bitmask` `Dynamic Programming` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year) | Easy | `Array` `Counting` `Prefix Sum` |

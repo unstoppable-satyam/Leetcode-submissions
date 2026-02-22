@@ -1646,6 +1646,17 @@
     ]
   },
   {
+    "id": 1707,
+    "title": "Maximum XOR With an Element From Array",
+    "title_slug": "maximum-xor-with-an-element-from-array",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
     "id": 1723,
     "title": "Find Minimum Time to Finish All Jobs",
     "title_slug": "find-minimum-time-to-finish-all-jobs",
