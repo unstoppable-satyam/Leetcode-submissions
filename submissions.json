@@ -929,6 +929,18 @@
     ]
   },
   {
+    "id": 421,
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "title_slug": "maximum-xor-of-two-numbers-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table",
+      "Trie"
+    ]
+  },
+  {
     "id": 424,
     "title": "Longest Repeating Character Replacement",
     "title_slug": "longest-repeating-character-replacement",
