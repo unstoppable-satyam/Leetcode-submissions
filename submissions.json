@@ -655,6 +655,18 @@
     ]
   },
   {
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "title_slug": "implement-trie-prefix-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 210,
     "title": "Course Schedule II",
     "title_slug": "course-schedule-ii",

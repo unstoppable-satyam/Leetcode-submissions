@@ -66,6 +66,7 @@
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | `Hash Table` `String` |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
+| 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | `Design` `Hash Table` `String` `Trie` |
 | 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | Medium | `Array` `Dynamic Programming` |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | `Array` `Divide and Conquer` `Heap (Priority Queue)` `Quickselect` `Sorting` |
