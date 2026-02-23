@@ -341,6 +341,18 @@
     ]
   },
   {
+    "id": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "title_slug": "binary-tree-inorder-traversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 98,
     "title": "Validate Binary Search Tree",
     "title_slug": "validate-binary-search-tree",
