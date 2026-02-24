@@ -122,6 +122,7 @@
 | 0775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) | Medium | `Array` `Math` |
 | 0779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Medium | `Bit Manipulation` `Math` `Recursion` |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
+| 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Medium | `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | Medium | `Array` `Greedy` `Hash Table` `Sorting` |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Medium | `Array` `Binary Search` |

@@ -1308,6 +1308,20 @@
     ]
   },
   {
+    "id": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "title_slug": "cheapest-flights-within-k-stops",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 796,
     "title": "Rotate String",
     "title_slug": "rotate-string",
