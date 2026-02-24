@@ -785,6 +785,15 @@
     ]
   },
   {
+    "id": 237,
+    "title": "Delete Node in a Linked List",
+    "title_slug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 242,
     "title": "Valid Anagram",
     "title_slug": "valid-anagram",
