@@ -437,6 +437,17 @@
     ]
   },
   {
+    "id": 110,
+    "title": "Balanced Binary Tree",
+    "title_slug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 115,
     "title": "Distinct Subsequences",
     "title_slug": "distinct-subsequences",
