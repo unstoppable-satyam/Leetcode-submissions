@@ -171,3 +171,4 @@
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom) | Hard | `Array` `Binary Search` `Hash Table` `Ordered Set` `Prefix Sum` `Sorting` |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
 | 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict) | Easy | `Array` `String` |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | Easy | `Math` |
