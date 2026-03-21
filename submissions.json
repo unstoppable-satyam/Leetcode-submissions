@@ -1885,6 +1885,18 @@
     ]
   },
   {
+    "id": 3709,
+    "title": "Design Exam Scores Tracker",
+    "title_slug": "design-exam-scores-tracker",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3870,
     "title": "Count Commas in Range",
     "title_slug": "count-commas-in-range",
