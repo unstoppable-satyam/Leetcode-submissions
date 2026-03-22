@@ -750,6 +750,19 @@
     ]
   },
   {
+    "id": 212,
+    "title": "Word Search II",
+    "title_slug": "word-search-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Matrix",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 213,
     "title": "House Robber II",
     "title_slug": "house-robber-ii",
