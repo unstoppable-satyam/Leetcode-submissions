@@ -1249,6 +1249,19 @@
     ]
   },
   {
+    "id": 676,
+    "title": "Implement Magic Dictionary",
+    "title_slug": "implement-magic-dictionary",
+    "difficulty": "Medium",
+    "skills": [
+      "Depth-First Search",
+      "Design",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 700,
     "title": "Search in a Binary Search Tree",
     "title_slug": "search-in-a-binary-search-tree",
