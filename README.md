@@ -21,6 +21,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Hard | `Dynamic Programming` `Stack` `String` |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
+| 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | `Array` `Dynamic Programming` `Monotonic Stack` `Stack` `Two Pointers` |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard | `Dynamic Programming` `Greedy` `Recursion` `String` |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
