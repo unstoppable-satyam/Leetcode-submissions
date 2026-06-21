@@ -1839,6 +1839,15 @@
     ]
   },
   {
+    "id": 1683,
+    "title": "Invalid Tweets",
+    "title_slug": "invalid-tweets",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1707,
     "title": "Maximum XOR With an Element From Array",
     "title_slug": "maximum-xor-with-an-element-from-array",
