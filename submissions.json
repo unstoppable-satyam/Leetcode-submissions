@@ -1264,6 +1264,15 @@
     ]
   },
   {
+    "id": 595,
+    "title": "Big Countries",
+    "title_slug": "big-countries",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 621,
     "title": "Task Scheduler",
     "title_slug": "task-scheduler",

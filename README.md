@@ -119,6 +119,7 @@
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | Medium | `Dynamic Programming` `String` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
+| 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | `Array` `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` |
 | 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` `Two Pointers` |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
