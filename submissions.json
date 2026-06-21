@@ -1770,6 +1770,15 @@
     ]
   },
   {
+    "id": 1280,
+    "title": "Students and Examinations",
+    "title_slug": "students-and-examinations",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1312,
     "title": "Minimum Insertion Steps to Make a String Palindrome",
     "title_slug": "minimum-insertion-steps-to-make-a-string-palindrome",
