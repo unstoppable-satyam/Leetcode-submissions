@@ -169,6 +169,7 @@
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array) | Hard | `Array` `Bit Manipulation` `Trie` |
 | 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs) | Hard | `Array` `Backtracking` `Bit Manipulation` `Bitmask` `Dynamic Programming` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | `Database` |
 | 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year) | Easy | `Array` `Counting` `Prefix Sum` |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | Easy | `Greedy` `Math` `String` |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers) | Medium | `Math` `Recursion` |
