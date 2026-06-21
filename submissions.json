@@ -1732,6 +1732,15 @@
     ]
   },
   {
+    "id": 1148,
+    "title": "Article Views I",
+    "title_slug": "article-views-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1192,
     "title": "Critical Connections in a Network",
     "title_slug": "critical-connections-in-a-network",
