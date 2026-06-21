@@ -1762,6 +1762,15 @@
     ]
   },
   {
+    "id": 1378,
+    "title": "Replace Employee ID With The Unique Identifier",
+    "title_slug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1395,
     "title": "Count Number of Teams",
     "title_slug": "count-number-of-teams",

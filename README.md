@@ -162,6 +162,7 @@
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard | `Dynamic Programming` `String` |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | Easy | `Database` |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | Medium | `Array` `Binary Indexed Tree` `Dynamic Programming` `Segment Tree` |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other) | Hard | `Array` `Bit Manipulation` `Bitmask` `Dynamic Programming` |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) | Hard | `Array` `Dynamic Programming` `Sorting` |
