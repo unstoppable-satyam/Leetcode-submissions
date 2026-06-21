@@ -117,6 +117,7 @@
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes) | Hard | `Array` `Dynamic Programming` `Memoization` |
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
+| 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | Easy | `Database` |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | Medium | `Dynamic Programming` `String` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |

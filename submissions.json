@@ -1245,6 +1245,15 @@
     ]
   },
   {
+    "id": 577,
+    "title": "Employee Bonus",
+    "title_slug": "employee-bonus",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 583,
     "title": "Delete Operation for Two Strings",
     "title_slug": "delete-operation-for-two-strings",
