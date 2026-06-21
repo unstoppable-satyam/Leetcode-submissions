@@ -155,6 +155,7 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | Medium | `Array` `Dynamic Programming` |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | Medium | `Array` `Dynamic Programming` `Hash Table` `Sorting` `String` `Two Pointers` |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | Easy | `Database` |
 | 1092 | [Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) | Hard | `Dynamic Programming` `String` |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling) | Medium | `Array` `Heap (Priority Queue)` `Prefix Sum` `Simulation` `Sorting` |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard | `Recursion` `Stack` `String` |
