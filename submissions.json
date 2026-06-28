@@ -258,6 +258,16 @@
     ]
   },
   {
+    "id": 56,
+    "title": "Merge Intervals",
+    "title_slug": "merge-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 62,
     "title": "Unique Paths",
     "title_slug": "unique-paths",

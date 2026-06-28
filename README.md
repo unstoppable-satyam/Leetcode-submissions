@@ -30,6 +30,7 @@
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | `Math` `Recursion` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | `Array` `Matrix` `Simulation` |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | `Array` `Sorting` |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | `Combinatorics` `Dynamic Programming` `Math` |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | `Array` `Dynamic Programming` `Matrix` |
