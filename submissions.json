@@ -386,6 +386,17 @@
     ]
   },
   {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "title_slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 94,
     "title": "Binary Tree Inorder Traversal",
     "title_slug": "binary-tree-inorder-traversal",
