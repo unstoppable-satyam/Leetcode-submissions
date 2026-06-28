@@ -609,6 +609,16 @@
     ]
   },
   {
+    "id": 138,
+    "title": "Copy List with Random Pointer",
+    "title_slug": "copy-list-with-random-pointer",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 140,
     "title": "Word Break II",
     "title_slug": "word-break-ii",
