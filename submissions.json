@@ -148,6 +148,16 @@
     ]
   },
   {
+    "id": 31,
+    "title": "Next Permutation",
+    "title_slug": "next-permutation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 32,
     "title": "Longest Valid Parentheses",
     "title_slug": "longest-valid-parentheses",
