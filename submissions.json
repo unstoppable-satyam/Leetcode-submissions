@@ -722,6 +722,18 @@
     ]
   },
   {
+    "id": 146,
+    "title": "LRU Cache",
+    "title_slug": "lru-cache",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Doubly-Linked List",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 151,
     "title": "Reverse Words in a String",
     "title_slug": "reverse-words-in-a-string",
