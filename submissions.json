@@ -1575,6 +1575,18 @@
     ]
   },
   {
+    "id": 802,
+    "title": "Find Eventual Safe States",
+    "title_slug": "find-eventual-safe-states",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 846,
     "title": "Hand of Straights",
     "title_slug": "hand-of-straights",
