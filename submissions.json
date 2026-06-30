@@ -786,6 +786,16 @@
     ]
   },
   {
+    "id": 162,
+    "title": "Find Peak Element",
+    "title_slug": "find-peak-element",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 169,
     "title": "Majority Element",
     "title_slug": "majority-element",
