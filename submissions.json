@@ -454,6 +454,18 @@
     ]
   },
   {
+    "id": 101,
+    "title": "Symmetric Tree",
+    "title_slug": "symmetric-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 102,
     "title": "Binary Tree Level Order Traversal",
     "title_slug": "binary-tree-level-order-traversal",
