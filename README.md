@@ -125,6 +125,7 @@
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | Medium | `Dynamic Programming` `String` |
+| 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | Medium | `Array` `Binary Search` |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` `Matrix` |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes) | Hard | `Array` `Dynamic Programming` `Memoization` |
