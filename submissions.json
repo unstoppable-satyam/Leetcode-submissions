@@ -179,6 +179,16 @@
     ]
   },
   {
+    "id": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "title_slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 42,
     "title": "Trapping Rain Water",
     "title_slug": "trapping-rain-water",
