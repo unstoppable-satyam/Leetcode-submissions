@@ -126,6 +126,17 @@
     ]
   },
   {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "title_slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 23,
     "title": "Merge k Sorted Lists",
     "title_slug": "merge-k-sorted-lists",
