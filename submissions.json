@@ -1077,6 +1077,17 @@
     ]
   },
   {
+    "id": 282,
+    "title": "Expression Add Operators",
+    "title_slug": "expression-add-operators",
+    "difficulty": "Hard",
+    "skills": [
+      "Backtracking",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 283,
     "title": "Move Zeroes",
     "title_slug": "move-zeroes",
