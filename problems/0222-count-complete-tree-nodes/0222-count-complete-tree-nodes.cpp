@@ -11,28 +11,64 @@
  */
 class Solution {
 public:
-    int countNodes(TreeNode* node) {
-        if(!node ) return 0;
-        int lh = findLeftHeight(node);
-        int rh = findRightHeight(node);
-        if( lh == rh ) return (1<<lh)-1;
-        return 1 + countNodes(node->left) + countNodes(node->right);  
+    int height(TreeNode* root ){
+        if(!root) return 0;
+        return 1 + height(root->left);
+
     }
 
-    int findLeftHeight(TreeNode * node){
-        int h = 0;
-        while(node){
-            h++;
-            node = node->left;
+    bool exists(int i , int height_tree , TreeNode* root){
+        vector<int> move_right(height_tree, 0);
+        int cnt = height_tree - 1;
+        while(i > 0 && cnt > 0 ){
+            if(i%2 == 0 ){
+                move_right[cnt--] = 1;
+            }
+            else{
+                move_right[cnt--] = 0;
+            }
+            i = (i-1)/2;
         }
-        return h;
+
+        TreeNode* node = root;
+        int lev = 1;
+        while(lev < height_tree ){
+            if(move_right[lev] ){
+                node = node->right;
+                if( !node ) return false;
+            }
+            else{
+                node = node->left;
+                if( !node ) return false;
+            }
+            lev++;
+        }
+        return true;
     }
-    int findRightHeight(TreeNode * node){
-        int h = 0;
-        while(node){
-            h++;
-            node = node->right;
+
+    int countNodes(TreeNode* root) {
+        
+        int height_tree = height(root);
+        if(height_tree == 0 ) return 0;
+
+        cout<<" height_tree "<<height_tree<<endl;
+        int l = (1<< (height_tree-1) ) - 1;
+        int r = (1<< (height_tree) ) - 2;
+
+        cout<<" l "<<l<<". r "<<r<<endl;
+        while ( r-l > 1 ){
+            int mid = (l+r)/2;
+            cout<<" mid "<<mid<<endl;
+            if( exists(mid, height_tree , root)){
+                l = mid;
+            }
+            else{
+                r = mid;
+            }
+            cout<<" l "<<l<<". r "<<r<<endl;
         }
-        return h;
+        if( exists(r, height_tree , root) ) return r+1;
+        else return l+1;
+
     }
 };
