@@ -1018,6 +1018,17 @@
     ]
   },
   {
+    "id": 236,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "title_slug": "lowest-common-ancestor-of-a-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 237,
     "title": "Delete Node in a Linked List",
     "title_slug": "delete-node-in-a-linked-list",
