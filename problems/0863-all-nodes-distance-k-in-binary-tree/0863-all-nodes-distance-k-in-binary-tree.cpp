@@ -8,63 +8,59 @@
  * };
  */
 class Solution {
-private:
-    void markParent(TreeNode *root, unordered_map<TreeNode*, TreeNode * > &parent_track ){
-        queue<TreeNode * > q;
-        q.push(root);
+public:
 
-        while(!q.empty() ){
-            auto node = q.front();
-            q.pop();
-            if(node->left ){
-                parent_track[node->left ]= node;
-                q.push(node->left);
-            }
-            if( node ->right ){
-                parent_track[ node->right] = node;
-                q.push(node->right);
-            }    
+    void dfs( TreeNode* root , map<TreeNode* , TreeNode* > &parent ){
+        if(!root) return;
+
+        if( root->left ){
+            parent[root->left] = root;
+            dfs(root->left,parent);
+        }
+        if( root->right ){
+            parent[root->right] = root;
+            dfs(root->right,parent);
         }
     }
-
-public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        // create track of parent
-        unordered_map<TreeNode*, TreeNode * > parent_track; 
-        markParent(root, parent_track);
-
-        // we will traverse as if target node is root node
-        unordered_map <TreeNode*,int > vis;   // so that the node do not come back to its parent
-        queue<TreeNode* > q;
-        q.push(target);
-        vis[target] = 1;
-        int level = 0;
-        while( !q.empty()){
-            if(level++ == k ) break;
-            int sz = q.size();
-
-            for(int i =0; i< sz; i++){
-                auto cur = q.front() ; q.pop();
-                vis[cur] = 1;
-
-                if( cur->left && !vis[cur->left] ){
-                    q.push(cur->left);
-                }
-                if( cur->right && !vis[cur->right] ){
-                    q.push(cur->right);
-                }
-                if( parent_track[cur] && !vis[parent_track[cur] ] ){
-                    q.push(parent_track[cur]);
-                }
-            }
-        }
+        map<TreeNode* , TreeNode* > parent;
+        dfs(root,parent);
+        
+        map<TreeNode* , int > vis;
 
         vector<int> ret;
-        while(!q.empty()){     // taking all elements at level k in a ret vector
-            auto node = q.front();
-            q.pop();
-            ret.push_back(node->val);    
+        queue<pair< int ,TreeNode*> > q;
+        q.push({0,target});
+        vis[target] = 1 ;
+        while(!q.empty()){
+            int sz = q.size();
+            int level = q.front().first;
+
+            for(int i = 0;i<sz; i++){
+                auto it = q.front();
+                q.pop();
+                if(level == k ){
+                    ret.push_back(it.second->val);
+                }
+
+                auto Node = it.second;
+                if(Node->left && vis[Node->left] != 1 ){
+                    q.push({level+1,Node->left});
+                    vis[Node->left] = 1;
+                }
+                if(Node->right && vis[Node->right] != 1 ){
+                    q.push({level+1,Node->right});
+                    vis[Node->right] = 1;
+                }
+                if(parent[Node] && vis[parent[Node]] != 1 ){
+                    q.push({level+1,parent[Node]});
+                    vis[parent[Node]] = 1;
+                }
+            }
+            if(level == k ) break;
         }
+
         return ret;
+        
     }
 };
