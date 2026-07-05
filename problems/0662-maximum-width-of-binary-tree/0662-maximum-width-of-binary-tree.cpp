@@ -14,26 +14,35 @@ typedef long long ll;
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        if (root == nullptr) return 0; // very important check
-        queue< pair<TreeNode*, ll> >q;   //  {node,col}
-        q.push({root, 0 });
-        ll ans =0 ;
-        while( !q.empty() ){         
+        if(!root) return 0;
+        ll mx = 1;
+        queue<pair<ll,TreeNode*> > q;
+        q.push({0LL,root});
+        
+        while(!q.empty()){
             int sz = q.size();
-            ll first,last;
-            ll mn = q.front().second;   // minus this at each level to stop overflow
-
-            for(int i= 0; i< sz ; i++){
-                TreeNode * node = q.front().first;
-                ll col =  q.front().second - mn;
+            ll mn_level = q.front().first;
+            ll mx_level;
+            for(int i = 0; i< sz; i++){
+                auto it = q.front();
                 q.pop();
-                if( i == 0 ) first = col;
-                if( i ==  sz-1)  last = col;    // for the level that is getting deleted in this loop
-                if( node->left) q.push({node->left,2*col+1});
-                if( node->right) q.push({node->right,2*col+2});    
+
+                if(i == sz-1 ){
+                    mx_level = it.first;
+                }
+
+                ll cur_ind = it.first - mn_level;
+                auto Node = it.second;
+                if(Node->left ){
+                    q.push( {2*cur_ind+1LL , Node->left});
+                }
+                if(Node->right ){
+                    q.push( {2*cur_ind+2LL , Node->right});
+                }
             }
-            ans = max(ans, last-first+1);
+            mx = max(mx, mx_level - mn_level + 1);
         }
-        return ans;  
+
+        return mx;
     }
 };
