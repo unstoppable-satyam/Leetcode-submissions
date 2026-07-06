@@ -183,6 +183,7 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | Medium | `Array` `Hash Table` `Math` `Prefix Sum` `Sliding Window` |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | Easy | `Database` |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard | `Dynamic Programming` `String` |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | Easy | `Database` |
