@@ -186,6 +186,7 @@
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | Medium | `Array` `Hash Table` `Math` `Prefix Sum` `Sliding Window` |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | Easy | `Database` |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard | `Dynamic Programming` `String` |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | Medium | `Hash Table` `Sliding Window` `String` |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | Easy | `Database` |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | Medium | `Array` `Binary Indexed Tree` `Dynamic Programming` `Segment Tree` |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other) | Hard | `Array` `Bit Manipulation` `Bitmask` `Dynamic Programming` |
